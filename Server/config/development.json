@@ -1,0 +1,12 @@
+{
+    "LOGGER": "morgan",
+    
+    "TOKEN_GENERATOR": "jwt",
+
+    "DB":"MONGODB",
+
+    "VALIDATOR":"Joi",
+
+    "ENVIRONMENT": "development"
+    
+}
